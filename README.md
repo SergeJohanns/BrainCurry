@@ -1,6 +1,6 @@
 # BrainCurry | A BrainFamily language with lambdas
 
-BrainCurry is a Brainf\*ck derivative named after Haskell Curry. The idea is to make a semi-functional variant of Brainfuck by introducing lambdas. These lambdas are function objects that themselves hold BrainCurry code, and they can be defined and called in the middle of regular code as needed.
+BrainCurry is a Brainfuck derivative named after Haskell Curry. The idea is to make a semi-functional variant of Brainfuck by introducing lambdas. These lambdas are function objects that themselves hold BrainCurry code, and they can be defined and called in the middle of regular code as needed.
 
 ## Lambdas are not subroutines
 The reason I refer to these function objects as lambdas, and not as functions, methods or subroutines, is that they do not behave as functions in imperative languages do. Although they are not pure expressions as the functional paradigm requires, they are as close as seemed reasonable given the structure of Brainfuck.
