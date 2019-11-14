@@ -46,4 +46,4 @@ Note that the construct `\>_|/]`, although used somewhat mundanely here, essenti
 ## Implementation
 Although this repository is mostly meant to show the language itself, I have provided a Python-written interpreter to give a demonstration of BrainCurry as a language. It implements all aspects of the language, and it *should* do so in a stable manner. Of course, In an ideal world I would have delivered an implementation in Haskell, but that can come later.
 
-Meanwhile, I invite everyone interested in the language to make their own inplementation in whatever language they fancy. It should not be hard to produce something faster than my implementation, because my implementation is a Python-written interpreter that handles *everything* at runtime, without any preprocessing at all.
+Meanwhile, I invite everyone interested in BrainCurry to make their own inplementation in whatever language they fancy. It should not be hard to produce something faster than my implementation, because my implementation is a Python-written interpreter that handles *everything* at runtime, without any preprocessing at all.
