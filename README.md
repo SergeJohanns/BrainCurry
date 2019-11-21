@@ -43,6 +43,8 @@ Another interesting possibility is to move *n* spaces to the right across a seri
 
 Note that the construct `\>_|/]`, although used somewhat mundanely here, essentially allows the mapping of the function at `_` over the *n* following cells.
 
+Example scripts can be found in the *Scripts* folder.
+
 ## Implementation
 Although this repository is mostly meant to show the language itself, I have provided a Python-written interpreter to give a demonstration of BrainCurry as a language. It implements all aspects of the language, and it *should* do so in a stable manner. Of course, In an ideal world I would have delivered an implementation in Haskell, but that can come later.
 
